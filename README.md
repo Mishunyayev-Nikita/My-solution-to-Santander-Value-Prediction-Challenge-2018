@@ -1,4 +1,4 @@
-# My-solution-to-Santander-Value-Prediction-Challenge-2018
+# My solution to Santander Value Prediction Challenge 2018
 
 I with my BIG team (23 people) ranked 108th (TOP 3%) in the [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge). It was a fun adventure due to the size of the team, but I made a significant contribution to our result and I want to share some of our code.
 
